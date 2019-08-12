@@ -27,4 +27,4 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 * **Pooja Thakoor** - [Pooja Thakoor](https://github.com/poojathakoor)
 * **Yogesh Jadhav** - [Yogesh Jadhav](https://github.com/yogeshjadhav7)
-* **Sameer Shinde** - [Sameer Shinde](https://github.com/sameershinde)
+* **Sameer Shinde** - [Sameer Shinde](https://github.com/sameershinde14)
