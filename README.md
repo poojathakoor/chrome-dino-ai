@@ -36,8 +36,8 @@ We will be trying out few tricks suggested by Google DeepMind’s research paper
 
 ## Miscellaneous
 
-* Report[report.pdf]
-* Presentation[presentation.pdf]
+* [Report](report.pdf)
+* [Presentation](presentation.pdf)
 
 ## License
 
