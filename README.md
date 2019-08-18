@@ -30,10 +30,14 @@ We will be trying out few tricks suggested by Google DeepMind’s research paper
     git clone https://github.com/poojathakoor/chrome-dino-ai.git
     cd chrome-dino-ai/chrome-dino-ai
 
-
 ## Demo
 
 ![](demo.gif)
+
+## Miscellaneous
+
+* Report[report.pdf]
+* Presentation[presentation.pdf]
 
 ## License
 
